@@ -1,0 +1,33 @@
+leftnav:
+- identifier: 9158184f-c854-b684-32b6-45fec8ba3ba5
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 263aa0f3-b7af-bfea-a0fa-1de08381879b
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 7c050027-bd00-bba9-6a48-cfe169c3dcb4
+  name: Lecture Summaries
+  pageRef: /pages/lecture-summaries
+  weight: 30
+- identifier: 79c04f2f-bc58-4e5f-4086-6219e1dc90b0
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 1ca0c432-9421-b533-4e60-f6ff40723e64
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 7c050027-bd00-bba9-6a48-cfe169c3dcb4
+  name: Lecture Summaries
+  pageRef: /pages/lecture-summaries
+  weight: 60
+- identifier: 79c04f2f-bc58-4e5f-4086-6219e1dc90b0
+  name: Readings
+  pageRef: /pages/readings
+  weight: 70
+- identifier: 1ca0c432-9421-b533-4e60-f6ff40723e64
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
