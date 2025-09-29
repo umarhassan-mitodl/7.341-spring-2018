@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes a course description, information on course format
   and grading, and a calendar.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -54,7 +56,7 @@ The class will meet weekly for two hours. Each week, students will read two pape
 Field Trip
 ----------
 
-Students will visit {{% resource_link "65f4c142-c3f5-4a4b-b862-d4df8a00c314" "Gingko Bioworks" %}}, a company that is at the forefront of designing and building microbes for diverse applications.
+Students will visit [Gingko Bioworks](https://www.ginkgobioworks.com/foundries/), a company that is at the forefront of designing and building microbes for diverse applications.
 
 Assignments
 -----------
@@ -135,7 +137,7 @@ Microfluidics technology to study the human microbiome
 Field trip to Ginkgo Bioworks, the organism company
 {{< tdclose >}}
 {{< tdopen >}}
-Field Trip to {{% resource_link "65f4c142-c3f5-4a4b-b862-d4df8a00c314" "Ginko Bioworks" %}}
+Field Trip to [Ginko Bioworks](https://www.ginkgobioworks.com/foundries/)
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains lecture summaries for every week.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -54,7 +56,7 @@ Microbes use small molecules to communicate
 
 {{< anchor "week2" >}}{{< /anchor >}}To navigate their complex environments, microbes use chemical cues to communicate with each other. One common type of communication called "quorum sensing" uses small molecules secreted and sensed by microbes of the same species to determine whether a "quorum" has been reached. This communication enables the bacteria to act in unison when a substantial number of the same bacteria are present. Certain bacteria, such the opportunistic human pathogen _Pseudomonas aeruginosa_, use quorum sensing signaling to coordinate the expression of virulence genes thereby giving the bacteria strength in numbers against the host and their environment. In this session we will focus on the mechanistic underpinnings of the quorum sensing system found in _P. aeruginosa_.
 
-**Video:** TED-Ed. "{{% resource_link "e74ec50b-c649-4bca-93d7-76001a93cd06" "How bacteria 'talk' - Bonnie Bassler" %}}." February 9, 2013. YouTube.
+**Video:** TED-Ed. "[How bacteria 'talk' - Bonnie Bassler](https://youtu.be/KXWurAmtf78)." February 9, 2013. YouTube.
 
 
 {{< tdclose >}}
@@ -85,10 +87,10 @@ The application of microfluidic technology is not limited in "organ on a chip" s
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to {{% resource_link "65f4c142-c3f5-4a4b-b862-d4df8a00c314" "Ginkgo Bioworks" %}}, the organism company
+Field trip to [Ginkgo Bioworks](https://www.ginkgobioworks.com/foundries/), the organism company
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "week4" >}}{{< /anchor >}}The field of synthetic biology or genetic engineering of cells, including microbes, has grown beyond academic research. Companies are applying the tools of genetic engineering to develop products for a diverse range of applications, including human health. {{% resource_link "65f4c142-c3f5-4a4b-b862-d4df8a00c314" "Ginkgo Bioworks" %}} is a company founded by MIT alumni in 2009 that aims to make biology engineerable. Ginkgo Bioworks has established infrastructure, modelled after automated microchip foundries, which aims to generate large number of reproducibly engineered microbes. An early perspective by Drew Endy provides an overview of how groups such as those at Ginkgo Bioworks are attempting to engineer biology through the use of standardized parts. A more recent perspective by Roberta Kwok discusses the unavoidable challenges of engineering biology and asks whether it is in fact possible as originally outlined. This week we will take a field trip to visit the Ginkgo Bioworks foundry in the drydocks area, where students can learn about and ask how this leading company is tackling the challenges of translating the results found in academic literature into a commercial enterprise. Will such companies be able to leverage microbiome signaling to develop therapeutics?
+{{< anchor "week4" >}}{{< /anchor >}}The field of synthetic biology or genetic engineering of cells, including microbes, has grown beyond academic research. Companies are applying the tools of genetic engineering to develop products for a diverse range of applications, including human health. [Ginkgo Bioworks](https://www.ginkgobioworks.com/foundries/) is a company founded by MIT alumni in 2009 that aims to make biology engineerable. Ginkgo Bioworks has established infrastructure, modelled after automated microchip foundries, which aims to generate large number of reproducibly engineered microbes. An early perspective by Drew Endy provides an overview of how groups such as those at Ginkgo Bioworks are attempting to engineer biology through the use of standardized parts. A more recent perspective by Roberta Kwok discusses the unavoidable challenges of engineering biology and asks whether it is in fact possible as originally outlined. This week we will take a field trip to visit the Ginkgo Bioworks foundry in the drydocks area, where students can learn about and ask how this leading company is tackling the challenges of translating the results found in academic literature into a commercial enterprise. Will such companies be able to leverage microbiome signaling to develop therapeutics?
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +178,7 @@ Using seminars and talks for sharing scientific discoveries
 
 {{< anchor "week9" >}}{{< /anchor >}}Besides journal papers, seminars and talks are also a great way for sharing scientific discoveries. In this session, we will discuss a brief pre-recorded seminar by Christopher Voigt in an _iBiology_ series on the topic of synthetic biology and programming living organisms for novel applications including drug delivery. Students are expected to watch the video before coming to this session, using the following link:
 
-**Video:** Chris Voigt. "{{% resource_link "73c928be-297b-4a1c-bb98-af1c902b6c7e" "Genetic Circuits: Programming Living Bacteria" %}}." July, 2015. iBiology.
+**Video:** Chris Voigt. "[Genetic Circuits: Programming Living Bacteria](https://www.ibiology.org/bioengineering/genetic-circuits/)." July, 2015. iBiology.
 
 Then in the class, we will discuss the talk, basic concepts and recent advances of the field. We will critically look at the concepts and question the claims promised as future outcomes of the field.
 
