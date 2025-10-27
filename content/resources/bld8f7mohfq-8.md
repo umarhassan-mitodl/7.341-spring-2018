@@ -4,8 +4,6 @@ description: ''
 file: /courses/7-341-the-microbiome-and-drug-delivery-cross-species-communication-in-health-and-disease-spring-2018/f6d46054171b2c9d9490fbec3a8caddb_blD8f7MOhFQ.srt
 file_size: 23972
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

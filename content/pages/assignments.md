@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains descriptions of the written assignment and the
   final oral presentation.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
